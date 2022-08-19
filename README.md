@@ -1,6 +1,6 @@
 # Directus Render Starter
 
-Host Directus easy on render.com
+Host Directus on render.com
 
 1. Create render.com account
 2. Login render.com and create a Web Service and PostgreSQL DB
