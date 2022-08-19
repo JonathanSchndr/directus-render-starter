@@ -14,4 +14,4 @@ Host Directus on render.com
 6. Done!
 
 Important:
-If you want your uploads folder not to be deleted after a push, you need to save them as filestorage under render.com Web Service > Settings > Disks. Mouth Path: /opt/render/project/src/uploads
+If you want your uploads folder not to be deleted after a push, you need to save them as filestorage under render.com Web Service > Settings > Disks. Mount Path: /opt/render/project/src/uploads
