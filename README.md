@@ -1,7 +1,6 @@
-# Directus Render Starter
+# Hosting Directus on render.com (free)
 
-## Getting started: Host Directus on render.com (free)
-
+## Getting started
 1. Use this repo as template to create your own
 2. Create render.com account
 3. Login render.com and create a Web Service and PostgreSQL DB
